@@ -1,4 +1,5 @@
 ORDERS AND CUSTOMERS DASHBOARD
+
 EXECUTIVE SUMMARY 
 This report provides a professional-level view of sales performance, focusing on profit margin, 
 region, product category, regions, segment, and discount impact. It is designed to support data
